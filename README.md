@@ -1,11 +1,11 @@
 # TSP-Algorithms
-Projet de Structure de Données - Problème du Voyageur de Commerce (TSP)
+**Projet de Structure de Données - Problème du Voyageur de Commerce (TSP)**
 
-Description du Projet
+**Description du Projet**
 
 Ce projet a été réalisé dans le cadre du module "Structures des données avancées et Théorie des graphes" à la Faculté des Sciences et Techniques de Tanger. L'objectif principal est d'explorer les différentes méthodes de résolution du problème du voyageur de commerce (TSP), un problème classique en optimisation combinatoire et en recherche opérationnelle.
 
-Auteurs
+**Auteurs**
 
 Farouk El Ouassif
 
@@ -17,11 +17,11 @@ Youssef Belfalah
 
 Zakaria Ouhchouch
 
-Encadrant
+**Encadrant**
 
 Pr. Oufae Baida
 
-Objectifs du Projet
+**Objectifs du Projet**
 
 Comprendre les fondements théoriques du TSP.
 
@@ -37,7 +37,7 @@ Algorithme de force brute (Brute Force)
 
 Comparer les performances des algorithmes en termes de complexité et d'efficacité.
 
-Implémentation
+**Implémentation**
 
 Le projet est implémenté en langage C et utilise une représentation sous forme de matrice d'adjacence pour modéliser le graphe du problème.
 
